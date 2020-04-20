@@ -1,6 +1,7 @@
 # Memory Games for learning
 
 This is a set of memory games for learning for children.
+c est un jeut pour les enfents 
 
 ## App
 
